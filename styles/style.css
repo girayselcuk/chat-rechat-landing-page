@@ -548,4 +548,8 @@ header .button {
 	.technology-body-header {
 		text-align: center;
 	}
+
+	.faq-items {
+		max-width: 100%;
+	}
 }
